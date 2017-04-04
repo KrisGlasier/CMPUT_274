@@ -1,0 +1,20 @@
+XOR ENCRYPTION
+
+( ^ is XOR )
+
+XOR is Exclusive OR- or only "1" if only one key is "on"
+
+How we do it?
+input          :    0 < c < 256              0 1 1 0
+Secret Key     :    0 < k < 256            ^ 1 1 0 0
+Encrypted char :    c' = c ^ k             ---------
+Decrpytion     :    c  = c' ^ k              1 0 1 0
+
+  (b ^ 0) ^ 0
+ = b
+
+  (b ^ 1) ^ 1
+= (1 - b) ^ 1
+= 1 - (1 - b)
+= 1 - 1 + b
+= b
