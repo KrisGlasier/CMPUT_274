@@ -1,6 +1,9 @@
-This repository has many of the files given in my CMPUT 274, Introduction to Tangible Computing I.
-Not every file was uploaded as they weren't documented at all or were even simpler versions
-of the same files. In addition some functions and files may not be mine (such as the makefiles)
-and I unfortunately don't remember which were other than the makefiles.
+This repository has many of the files given in my CMPUT 274, Introduction to 
+Tangible Computing I. Not every file was uploaded as they weren't documented at
+all or were even simpler versions of the same files. Many files require
+the context given, which I did not record in this class.
 
-Class from University of Alberta.
+Not all of the code is mine, such as the makefiles and many of the functions as
+our tasks were to complete or edit code given. 
+
+Class: CMPUT 274, "Introduction to Tangible Computing I" from University of Alberta.
